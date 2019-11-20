@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4631">
+      <stop
+         id="stop4627"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop4629"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.98242768,0,1.1712335)"
+       r="73.49942"
+       fy="66.652191"
+       fx="69.704185"
+       cy="66.652191"
+       cx="69.704185"
+       id="radialGradient4635"
+       xlink:href="#linearGradient4631" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     id="layer2" />
+  <g
+     id="layer4" />
+  <g
+     style="display:inline"
+     id="layer1">
+    <flowRoot
+       transform="scale(0.26458333)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot3713"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3715"><rect
+           y="265.37683"
+           x="151.42857"
+           height="211.42857"
+           width="528.57141"
+           id="rect3717" /></flowRegion><flowPara
+         id="flowPara3719" /></flowRoot>    <flowRoot
+       transform="scale(0.26458333)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot3721"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3723"><rect
+           y="359.66254"
+           x="477.14285"
+           height="48.57143"
+           width="162.85715"
+           id="rect3725" /></flowRegion><flowPara
+         id="flowPara3727"></flowPara></flowRoot>    <path
+       d="m 49.136904,197.21429 8.963847,-27.8654 -21.596584,-19.75903 29.271557,-0.0857 12.118237,-26.64545 9.12697,27.8124 29.086069,3.29124 -23.630782,17.27477 5.857941,28.67954 -23.731595,-17.13601 z"
+       id="path4579"
+       style="opacity:0;fill:#000000;stroke-width:13.86499977;stroke-miterlimit:4;stroke-dasharray:none" />
+    <g
+       id="g4721">
+      <rect
+         id="rect3741"
+         width="142.25853"
+         height="66.640549"
+         x="79.333054"
+         y="165.24692"
+         style="display:inline;stroke-width:0.35480788"
+         transform="matrix(0.99864558,0.05202896,-0.22896069,0.97343566,0,0)" />
+      <g
+         id="g4583"
+         style="display:inline;opacity:0;fill:#000000;stroke-width:52.40314865;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           id="path4585"
+           style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+           d="m 36.504166,149.58986 v 17.99731 l 13.873522,-1.5263 v -16.55816 z"
+           points="36.504166,167.58717 50.377688,166.06087 50.377688,149.50271 36.504166,149.58986 " />
+        <path
+           id="path4593"
+           style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+           d="M 36.504166,167.58717 98.334159,199.91661 119.5185,190.16226 50.377688,166.06087 Z"
+           points="98.334159,199.91661 119.5185,190.16226 50.377688,166.06087 36.504166,167.58717 " />
+        <path
+           id="path4595"
+           style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+           d="m 50.377688,149.50271 69.140812,1.37617 v 39.28338 L 50.377688,166.06087 Z"
+           points="119.5185,150.87888 119.5185,190.16226 50.377688,166.06087 50.377688,149.50271 " />
+        <path
+           id="path4587"
+           style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+           d="m 36.504166,149.58986 61.829993,1.84599 21.184341,-0.55697 -69.140812,-1.37617 z"
+           points="98.334159,151.43585 119.5185,150.87888 50.377688,149.50271 36.504166,149.58986 " />
+        <path
+           id="path4591"
+           style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+           d="m 98.334159,151.43585 v 48.48076 l 21.184341,-9.75435 v -39.28338 z"
+           points="98.334159,199.91661 119.5185,190.16226 119.5185,150.87888 98.334159,151.43585 " />
+        <path
+           id="path4589"
+           style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+           d="m 36.504166,149.58986 61.829993,1.84599 v 48.48076 L 36.504166,167.58717 Z"
+           points="98.334159,151.43585 98.334159,199.91661 36.504166,167.58717 36.504166,149.58986 " />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:56.37588501px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.9;fill:#e7ea1b;fill-opacity:1;stroke:none;stroke-width:0.66065478"
+         x="47.891869"
+         y="224.71516"
+         id="text3731"
+         transform="matrix(1.0531353,0.04871233,-0.05441133,0.94702884,0,0)"><tspan
+           id="tspan3729"
+           x="47.891869"
+           y="224.71516"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.37588501px;line-height:3.25;font-family:Impact;-inkscape-font-specification:Impact;fill:#e7ea1b;fill-opacity:1;stroke-width:0.66065478"
+           rotate="11.1 11.1 11.1 11.1 0">JASR</tspan></text>
+      <path
+         style="display:inline;opacity:0.76000001;fill:#bbd7ca;fill-opacity:1;stroke:url(#radialGradient4635);stroke-width:13.86499977;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4625"
+         d="M 96.761906,122.375 64.72369,96.904408 28.220362,115.41672 l 14.32362,-38.341003 -28.8864,-28.996109 40.8907,1.774551 18.65055,-36.43289 10.948223,39.437734 40.413075,6.479345 -34.124328,22.599308 z"
+         transform="matrix(0.23819701,0,0,0.2469946,139.30175,202.08493)" />
+    </g>
+  </g>
+</svg>
