@@ -1,0 +1,169 @@
+body {
+  background-color: #02010A;
+}
+
+#contenedor {
+  width: 900px;
+  margin: auto;
+  align: center;
+  font-family: "Dancing Script", cursive;
+  animation: slidein 1s;
+}
+
+@keyframes slidein {
+  0% {
+    margin-top: 150%;
+  }
+  60% {
+    margin-top: -5%;
+  }
+  100% {
+    margin-top: 0%;
+  }
+}
+
+#cabecera {
+  background-color: #5B7989;
+  border-radius: 10px 10px 0 0;
+  color: white;
+  text-shadow: 2px 2px 0 #02010A;
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.titulo {
+  padding-left: 25px;
+  width: 50%;
+  font-size: 1em;
+  display: inline-block;
+}
+
+.menu {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  font-size:1.7em;
+  display: inline-flex;
+  flex-flow: row nowrap;
+}
+
+.menu a:link, a:visited {
+  color: inherit;
+}
+
+.menu a[href$="#"] {
+  text-decoration: none;
+}
+
+.inicio, .paisajes, .retratos {
+  width: 30%;
+  display: inline-block;
+}
+
+#galeria {
+  background-color: #D5C75F;
+  padding: 20px;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+#galeria div {
+  width: 33%;
+  text-align: center;
+}
+
+#galeria div img {
+  width: 100%;
+  box-shadow: 2px 2px #02010A;
+}
+
+.retrato1 {
+  -webkit-filter: blur(10px);
+  filter: blur(10px);
+}
+
+.retrato2, .retrato4, .retrato6 {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.retrato3 {
+  -webkit-filter: sepia(90%);
+  filter: sepia(90%);
+}
+
+#piedepagina {
+  background-color: #C6D5C5;
+  border-radius: 0  0 10px 10px;
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+#piedepagina div {
+  width:25%;
+  text-align: left;
+  font-size: 1em;
+}
+
+#piedepagina div h2 {
+  font-size: 1.3em;
+  padding-left: 20px;
+}
+
+#piedepagina div p {
+  padding-left: 20px;
+}
+
+.redes img {
+  width: 10%;
+}
+
+.derechos img {
+  width: 5%;
+}
+
+@media (max-width: 900px) {
+  #contenedor{
+    width: 100%;
+  }
+
+  #cabecera {
+    display: flex;
+    flex-flow: column wrap;
+  }
+
+  .titulo {
+    width: 100%;
+    padding: 0;
+    margin: auto;
+    text-align: center;
+  }
+
+  .menu {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+
+  #galeria {
+    display: flex;
+    flex-flow: column nowrap;
+  }
+
+  #galeria div {
+    width: 100%;
+  }
+
+  #piedepagina {
+    display: flex;
+    flex-flow: column nowrap;
+  }
+
+  #piedepagina div {
+    width: 100%;
+  }
+
+@media (min-width:900px) {
+  #contenedor{
+    width: 900px;
+  }
+}
